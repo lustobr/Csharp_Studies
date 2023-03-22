@@ -1,0 +1,15 @@
+C:\Users\lusto\Desktop\CSharp_Studies\bin\Debug\net7.0\CSharp_Studies.exe
+C:\Users\lusto\Desktop\CSharp_Studies\bin\Debug\net7.0\CSharp_Studies.deps.json
+C:\Users\lusto\Desktop\CSharp_Studies\bin\Debug\net7.0\CSharp_Studies.runtimeconfig.json
+C:\Users\lusto\Desktop\CSharp_Studies\bin\Debug\net7.0\CSharp_Studies.dll
+C:\Users\lusto\Desktop\CSharp_Studies\bin\Debug\net7.0\CSharp_Studies.pdb
+C:\Users\lusto\Desktop\CSharp_Studies\obj\Debug\net7.0\CSharp_Studies.csproj.AssemblyReference.cache
+C:\Users\lusto\Desktop\CSharp_Studies\obj\Debug\net7.0\CSharp_Studies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\Desktop\CSharp_Studies\obj\Debug\net7.0\CSharp_Studies.AssemblyInfoInputs.cache
+C:\Users\lusto\Desktop\CSharp_Studies\obj\Debug\net7.0\CSharp_Studies.AssemblyInfo.cs
+C:\Users\lusto\Desktop\CSharp_Studies\obj\Debug\net7.0\CSharp_Studies.csproj.CoreCompileInputs.cache
+C:\Users\lusto\Desktop\CSharp_Studies\obj\Debug\net7.0\CSharp_Studies.dll
+C:\Users\lusto\Desktop\CSharp_Studies\obj\Debug\net7.0\refint\CSharp_Studies.dll
+C:\Users\lusto\Desktop\CSharp_Studies\obj\Debug\net7.0\CSharp_Studies.pdb
+C:\Users\lusto\Desktop\CSharp_Studies\obj\Debug\net7.0\CSharp_Studies.genruntimeconfig.cache
+C:\Users\lusto\Desktop\CSharp_Studies\obj\Debug\net7.0\ref\CSharp_Studies.dll
