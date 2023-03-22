@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lusto\\Desktop\\CSharp_Studies\\CSharp_Studies.csproj": {}
+    "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\CSharp_Studies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lusto\\Desktop\\CSharp_Studies\\CSharp_Studies.csproj": {
+    "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\CSharp_Studies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusto\\Desktop\\CSharp_Studies\\CSharp_Studies.csproj",
+        "projectUniqueName": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\CSharp_Studies.csproj",
         "projectName": "CSharp_Studies",
-        "projectPath": "C:\\Users\\lusto\\Desktop\\CSharp_Studies\\CSharp_Studies.csproj",
+        "projectPath": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\CSharp_Studies.csproj",
         "packagesPath": "C:\\Users\\lusto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusto\\Desktop\\CSharp_Studies\\obj\\",
+        "outputPath": "C:\\Users\\lusto\\OneDrive\\GitHub\\Csharp_Studies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lusto\\AppData\\Roaming\\NuGet\\NuGet.Config",
