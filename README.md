@@ -1,6 +1,6 @@
 # Estudos de Csharp
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="thumbnail-Aprendendo Java.png">
+<img src="C:\Users\lusto\Downloads\thumbnail-Aprendendo Java.png">
 
 > Status do projeto: Em andamento
 
