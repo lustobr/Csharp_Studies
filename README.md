@@ -7,4 +7,6 @@
 
 Nesse repositorio, há todos os exercicios e testes de novos aprendizados ao longo de minha caminhada absorvendo conhecimentos dessa linguagem de programação de C#.
 
-Na pasta (Projetos de Aprendizagem) há todos os projetos desenvolvidos atráves do meu densevolvimento do meu conhecimento em cima da linguagem C#.
+Acima, há todos os projetos desenvolvidos atráves do meu densevolvimento do meu conhecimento em cima da linguagem C#, divididos por áreas de conhecimento do mundo do C#.
+
+Na pasta (Primeiros passos), há projetos simples, mas que são fundamentais para uma jornada para apreder uma linguagem nova.
