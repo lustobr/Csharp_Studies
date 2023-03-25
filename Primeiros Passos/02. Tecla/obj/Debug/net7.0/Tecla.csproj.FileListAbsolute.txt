@@ -1,0 +1,30 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\bin\Debug\net7.0\Tecla.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\bin\Debug\net7.0\Tecla.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\bin\Debug\net7.0\Tecla.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\bin\Debug\net7.0\Tecla.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\bin\Debug\net7.0\Tecla.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\obj\Debug\net7.0\Tecla.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\obj\Debug\net7.0\Tecla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\obj\Debug\net7.0\Tecla.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\obj\Debug\net7.0\Tecla.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\obj\Debug\net7.0\Tecla.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\obj\Debug\net7.0\Tecla.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\obj\Debug\net7.0\refint\Tecla.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\obj\Debug\net7.0\Tecla.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\obj\Debug\net7.0\Tecla.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\Tecla\obj\Debug\net7.0\ref\Tecla.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\bin\Debug\net7.0\Tecla.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\bin\Debug\net7.0\Tecla.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\bin\Debug\net7.0\Tecla.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\bin\Debug\net7.0\Tecla.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\bin\Debug\net7.0\Tecla.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\obj\Debug\net7.0\Tecla.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\obj\Debug\net7.0\Tecla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\obj\Debug\net7.0\Tecla.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\obj\Debug\net7.0\Tecla.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\obj\Debug\net7.0\Tecla.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\obj\Debug\net7.0\Tecla.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\obj\Debug\net7.0\refint\Tecla.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\obj\Debug\net7.0\Tecla.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\obj\Debug\net7.0\Tecla.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\Primeiros Passos\02. Tecla\obj\Debug\net7.0\ref\Tecla.dll
