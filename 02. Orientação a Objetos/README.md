@@ -4,4 +4,8 @@
 
 Nesse projeto eu aprendo sobre orientação a objeto as seguintes coisas: Criação de classes, criar objetos, criar metodos, valor padrão do tipo primitivo, composição de classe, namespace, criar um get e set de um objeto (propriedade e propriedade implementadas), membro construtor e membro estático.
 
-- Alguns projetos são exercicios mais simples, assim o projeto que demostra o conhecimento geral é o Banco 2.0
+
+Projetos da pasta:
+- Mercado (Projeto mais simples, aprendendo o funcionamento de Orientação a Objeto)
+- FastFood (Projeto com composição de classe)
+- Banco (Projeto mais completo, com todos os conhecimentos aplicados)
