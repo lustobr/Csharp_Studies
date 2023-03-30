@@ -1,0 +1,15 @@
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\bin\Debug\net7.0\02. Biblioteca.exe
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\bin\Debug\net7.0\02. Biblioteca.deps.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\bin\Debug\net7.0\02. Biblioteca.runtimeconfig.json
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\bin\Debug\net7.0\02. Biblioteca.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\bin\Debug\net7.0\02. Biblioteca.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\obj\Debug\net7.0\02. Biblioteca.csproj.AssemblyReference.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\obj\Debug\net7.0\02. Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\obj\Debug\net7.0\02. Biblioteca.AssemblyInfoInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\obj\Debug\net7.0\02. Biblioteca.AssemblyInfo.cs
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\obj\Debug\net7.0\02. Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\obj\Debug\net7.0\02. Biblioteca.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\obj\Debug\net7.0\refint\02. Biblioteca.dll
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\obj\Debug\net7.0\02. Biblioteca.pdb
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\obj\Debug\net7.0\02. Biblioteca.genruntimeconfig.cache
+C:\Users\lusto\OneDrive\GitHub\Csharp_Studies\03. Herança e interface\02. Biblioteca\obj\Debug\net7.0\ref\02. Biblioteca.dll
