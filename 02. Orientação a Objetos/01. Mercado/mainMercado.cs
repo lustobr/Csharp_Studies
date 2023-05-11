@@ -8,9 +8,10 @@ namespace mainMercado
     {
         static void Main(string[] args)
         {
-            // Criação do objeto ProdutoFini
+            // Criação do objeto (ProdutoFini)
             sistemaMercado ProdutoFini = new sistemaMercado();
 
+            // Atribuindo valores aos atributos
             ProdutoFini.nome = "Fini";
             ProdutoFini.fabricante = "Fini Company";
             ProdutoFini.quantidadeEmEstoque = 16;
@@ -24,6 +25,7 @@ namespace mainMercado
             Output:
 
             "O produto Fini custa 6 reais"
+            
             */
         }
     }

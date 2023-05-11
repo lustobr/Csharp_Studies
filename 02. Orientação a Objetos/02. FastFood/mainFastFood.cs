@@ -6,8 +6,10 @@ public class MainFastFood
 {
     public static void Main(string[] args)
     {
+        // Criação do objeto (cliente01)
         SistemaFastFood cliente01 = new SistemaFastFood();
 
+        // Atribuindo valores aos atributos
         cliente01.cliente = "Victor";
         cliente01.endereço = "Avenida São Paulo 123";
         cliente01.valorTotal = 20.3;
@@ -26,6 +28,7 @@ public class MainFastFood
         Batata
         Refri
         Valor total: 20,3"
+        
         */
     }
 }

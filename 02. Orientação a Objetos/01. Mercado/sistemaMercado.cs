@@ -3,7 +3,7 @@ namespace Mercado
     public class sistemaMercado
     {
 
-        // Criação de objetos
+        // Criação de atributos
         public string? nome;
         public string? fabricante;
         public long codigoDeBarras;

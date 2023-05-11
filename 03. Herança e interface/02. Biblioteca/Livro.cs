@@ -12,7 +12,7 @@ namespace ClasseLivro
         public int NumeroDePaginas { get; set; }
         public string? PaisDePublicacao { get; set; }
 
-        // Criação do contrutor título e o código IBSN
+        // Membro construtor da classe (título e o código IBSN)
         public Livro(string isbn, string titulo) 
         {
             this.ISBN = isbn;

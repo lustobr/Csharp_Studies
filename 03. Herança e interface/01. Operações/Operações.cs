@@ -8,12 +8,13 @@ namespace ClassOperacoes
     public class Operacoes
     {
 
-        // Criação de Get e Set da class Operacoes
-        public Soma soma { get; private set; }
-        public Subtracao subtracao { get; private set; }
-        public Multiplicacao multiplicacao { get; private set; }
-        public Divisao divisao { get; private set; }
+        // Criação de atributos
+        public Soma soma { get; private set; } // Atributo da classe Soma
+        public Subtracao subtracao { get; private set; } // Atributo da classe Subtracao
+        public Multiplicacao multiplicacao { get; private set; } // Atributo da classe Multiplicacao
+        public Divisao divisao { get; private set; } // Atributo da classe Divisao
         
+        // Criação do método construtor
         public Operacoes()
         {
             this.soma = new Soma();

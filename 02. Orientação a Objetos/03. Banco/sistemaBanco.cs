@@ -6,15 +6,15 @@ namespace bancoSistema
     public class Banco
     {
         
-        // Criando um get e set para Conta e TotalDeContasCriadas (propriedade)
+        // Criação do atributo Conta
         public string? Conta { get; set; }
-        public static int TotalDeContasCriadas { get; private set; }
+        public static int TotalDeContasCriadas { get; private set; } // Membro estático 
 
 
-        public Cliente? Titular { get; set; }
+        public Cliente? Titular { get; set; } // Atributo da classe Cliente
 
 
-        // Criando um get e set para numero_agencia (propriedade implementadas)
+        // Criação do atributo numero_agencia com encapsulamento
         private int numero_agencia;
         public int Numero_agencia
         {
@@ -29,7 +29,7 @@ namespace bancoSistema
         }
 
 
-        // Criando um get e set para saldo (propriedade implementadas)
+        // Criação do atributo saldo com encapsulamento
         private double saldo = 100;
         public double Saldo
         {
@@ -62,7 +62,9 @@ namespace bancoSistema
                 this.saldo -= valor;
                 return true;
 
-            } else {
+            } 
+            else 
+            {
                 return false;
             }
         }
@@ -83,8 +85,7 @@ namespace bancoSistema
         }
 
 
-        // Membro estático da classe, requerendo determinar o 
-        // numero da conta e da agencia na criação de uma conta
+        // Membro construtor da classe (numero_agencia e numero_conta)
         public Banco(int numero_agencia, string numero_conta) {
             this.numero_agencia = numero_agencia;
             this.Conta = numero_conta;

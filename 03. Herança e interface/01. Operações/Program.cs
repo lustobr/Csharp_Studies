@@ -5,6 +5,7 @@ public class Program
 {
     private static void Main(string[] args)
     {
+        // Criação do objeto (op)
         Operacoes op = new Operacoes();
 
         Console.WriteLine($"O valor de 50 + 20 = {op.soma.Calcular(50, 20)}");
